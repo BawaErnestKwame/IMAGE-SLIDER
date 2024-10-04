@@ -27,6 +27,7 @@ body{
     width: 100%;
     filter: grayscale(100);
     transition: .5s;
+    overflow: hidden;
 }
 
 .gallery::-webkit-scrollbar{
